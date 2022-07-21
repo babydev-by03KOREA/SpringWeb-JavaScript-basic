@@ -1,2 +1,2 @@
 # SpringWeb-Intellij
-made by Intellij Spring Web MVC
+made by Intellij Spring Web MVC and JavaScript Study!
